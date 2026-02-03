@@ -81,6 +81,7 @@ g++ CS213_A3_Part2_S28_20240227_20240546_20240624.cpp -o Image-Editor
 
 ## Author
 
-Mahmoud Ahmed - Student at the Faculty of Computers and Artificial Intelligence at Cairo University.
+Mahmoud Ahmed 
+[Student at the Faculty of Computers and Artificial Intelligence at Cairo University]
 
 
