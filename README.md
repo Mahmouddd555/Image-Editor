@@ -47,12 +47,12 @@ organized, and published for **portfolio and learning purposes**.
 
 ## 📂 Project Structure
 
-├── CS213_A3_Part2_S28_20240227_20240546_20240624.cpp # Main Application logic
-├── Image_Class.h # To manage data, upload, and save images(Provided).
-├── stb_image.h # External library specializing in reading different image formats(Provided).
-├── stb_image_write.h # External library is responsible for writing and saving image files(Provided).
-├── Images/ # Sample images for testing.
-├── README.md # Project documentation.
+- CS213_A3_Part2_S28_20240227_20240546_20240624.cpp # Main Application logic.
+- Image_Class.h # To manage data, upload, and save images(Provided).
+- stb_image.h # External library specializing in reading different image formats(Provided).
+- stb_image_write.h # External library is responsible for writing and saving image files(Provided).
+- Images/ # Sample images for testing.
+- README.md # Project documentation.
 
 ---
 
